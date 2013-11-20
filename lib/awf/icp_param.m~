@@ -1,0 +1,7 @@
+function p = icp_param(R, t)
+
+p = [atan2(R(1,2), R(1,1)) t(1) t(2)];
+
+
+R = coolquat2mat([p1 p2 p3 p4]) / sum([p1 p2 p3 p4].^2);
+t = [p5 p6 p7]';
