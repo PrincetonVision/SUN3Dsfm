@@ -1,4 +1,4 @@
-SUN3Dsfm: Structure From Motion for RGB-D videos using Generalized Bundle Adjustment
+SUN3Dsfm
 ==============
 
 How to install
