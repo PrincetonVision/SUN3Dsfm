@@ -11,12 +11,9 @@ if ~exist('frameIDs','var')
     frameIDs = [];
 end
 
-%write2path = '/data/vision/torralba/sun3d/sfmNew/';
-%write2path = '/Users/xj/local_data/';
+%SUN3Dpath = '/n/fs/sun3d/data/';
 SUN3Dpath = 'http://sun3d.csail.mit.edu/data/';
-
-write2path = '/n/fs/sun3d/data/sfm/';
-%SUN3Dpath = '/n/fs/sun3d/data/scene/scene_final/';
+write2path = '/n/fs/sun3d/sfm/';
 
 basicSetup
 

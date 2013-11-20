@@ -15,11 +15,9 @@ end
 
 basicSetup
 
-%write2path = '/data/vision/torralba/sun3d/sfmNew/';
-%write2path = './local_data/';
-write2path = '/n/fs/sun3d/data/sfm/';
-%SUN3Dpath = '/n/fs/sun3d/data/scene/scene_final/';
+%SUN3Dpath = '/n/fs/sun3d/data/';
 SUN3Dpath = 'http://sun3d.csail.mit.edu/data/';
+write2path = '/n/fs/sun3d/sfm/';
 
 %% read data
 load(fullfile(write2path, sequenceName,'BA_variables.mat'));
