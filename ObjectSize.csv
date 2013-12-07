@@ -1,1 +1,62 @@
-bathtub,2,1,1,1bed,2.5,1.2,2,1bed headboard,2,1.5,0.5,1ceiling,30,0.05,30,4coffee machine,0.5,0.5,0.5,1computer bag,0.5,0.5,0.5,1counter top,2.5,0.5,1,1curtain,10,5,1,1curtain pole,5,0.3,0.3,1desk,2,1.5,1.5,1door,1.5,3,0.3,1floor,30,0.05,30,0lamp,0.5,0.5,0.5,1light switch,0.3,0.3,0.3,1night stand,1,1,1,1office chair,1,1.5,1,1painting,2,2,0.4,1paper bag,0.5,0.5,0.5,1pillow,1,0.5,0.5,1power outlet,0.3,0.3,0.3,1sink,0.5,0.5,0.5,1sofa chair,1.5,1.5,1.5,1suitcase,1.5,1,1,1telephone,0.4,0.4,0.4,1toilet,1.5,1.5,1,1toilet paper,0.4,0.4,0.4,1towel,2,2,1,1trash can,1.5,1,0.5,1tv,1.5,1,1,1tv stand,3,1,1,1wall,30,5,0.05,1mirror,10000,10000,10000,3
+bathtub,2,1,1,1
+bed,2.5,1.2,2,1
+bed headboard,2,1.5,0.5,1
+ceiling,30,0.05,30,4
+coffee machine,0.5,0.5,0.5,1
+computer bag,0.5,0.5,0.5,1
+counter top,2.5,0.5,1,1
+curtain pole,5,0.3,0.3,1
+desk,2,1.5,1.5,1
+door,1.5,3,0.3,1
+floor,30,0.05,30,0
+lamp,0.5,0.5,0.5,1
+light switch,0.3,0.3,0.3,1
+night stand,1,1,1,1
+chair,1,1.5,1,1
+drinking water fountain,1,1.5,1,1
+office chair,1,1.5,1,1
+painting,2,2,0.4,1
+paper bag,0.5,0.5,0.5,1
+pillow,1,0.5,0.5,1
+power outlet,0.3,0.3,0.3,1
+sink,0.5,0.5,0.5,1
+sofa chair,1.5,1.5,1.5,1
+suitcase,1.5,1,1,1
+telephone,0.4,0.4,0.4,1
+toilet,1.5,1.5,1,1
+toilet paper,0.4,0.4,0.4,1
+towel,2,2,1,1
+trash can,1.5,1,0.5,1
+trash bin,1.5,1,0.5,1
+basket,1,1.5,1,1
+umbrella,1,1.5,1,1
+power socket,0.5,0.5,0.5,1
+backpack,1,1,1,1
+plastic bag,1,1,1,1
+tv,1.5,1,1,1
+tv stand,3,1,1,1
+wall,30,5,0.05,1
+opaque window,10,5,0.05,1
+window shade,10,5,0.05,1
+blinds,10,5,0.05,1
+curtain,10,5,1,1
+black board,30,5,0.05,1
+white board,30,5,0.05,1
+table top,10,0.05,10,4
+microwave oven,0.8,0.8,0.8,1
+fridge,2,3,2,1
+mirror,10000,10000,10000,3
+cupboard,5,2.5,2,1
+cabinet,5,2.5,2,1
+closet,10,3,2,1
+glass outside,10000,10000,10000,3
+window,10000,10000,10000,3
+windowsill,10,1,1,1
+printer,1.5,1,1,1
+table,10,1.5,2,1
+coffee table,2,1.5,2,1
+sofa,5,1.5,1.5,1
+switch,0.5,0.5,0.5,1
+office partition,5,5,0.05,1
+book,0.5,0.5,0.5,1
+plaque,0.5,0.5,0.5,1
